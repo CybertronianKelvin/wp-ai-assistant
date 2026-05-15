@@ -8,9 +8,9 @@ AI-powered bug explainer and content writer for your WordPress admin. Bring your
 
 ## Screenshots
 
-| Bug Explainer | Content Writer | Settings |
+| Settings | Bug Explainer | Content Writer |
 |---|---|---|
-| ![Bug Explainer](screenshot/Screenshot-1.png) | ![Content Writer](screenshot/Screenshot-2.png) | ![Settings](screenshot/Screenshot-3.png) |
+| ![Settings](screenshot/Screenshot-1.png) | ![Bug Explainer](screenshot/Screenshot-2.png) | ![Content Writer](screenshot/Screenshot-3.png) |
 
 ---
 

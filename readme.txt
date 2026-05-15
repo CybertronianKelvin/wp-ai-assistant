@@ -102,9 +102,9 @@ The plugin itself stores only your API key and provider settings in `wp_options`
 
 == Screenshots ==
 
-1. Bug Explainer — paste a PHP error or load it directly from debug.log. Get a plain-English explanation, root cause, and suggested code fix with syntax-highlighted code blocks.
-2. Content Writer — choose content type, tone, and word count. Generate, preview, and publish as a WordPress draft post in one click.
-3. Settings — select your AI provider (OpenAI, Anthropic, Gemini, or OpenRouter), enter your API key, and search or type any model ID.
+1. Settings — select your AI provider (OpenAI, Anthropic, Gemini, or OpenRouter), enter your API key, and search or type any model ID.
+2. Bug Explainer — paste a PHP error or load it directly from debug.log. Get a plain-English explanation, root cause, and suggested code fix with syntax-highlighted code blocks.
+3. Content Writer — choose content type, tone, and word count. Generate, preview, and publish as a WordPress draft post in one click.
 
 == Changelog ==
 
