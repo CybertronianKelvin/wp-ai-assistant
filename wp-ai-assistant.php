@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WP AI Assistant
- * Plugin URI: https://yoursite.com
+ * Plugin URI: https://github.com/CybertronianKelvin/wp-ai-assistant
  * Description: AI-powered bug explainer and content writer for your WordPress admin.
  * Version: 1.0.1
  * Author: CybertronianKelvin
- * Author URI: https://yoursite.com
+ * Author URI: https://github.com/CybertronianKelvin
  * License: GPL-2.0-or-later
  * Text Domain: wp-ai-assistant
  */
