@@ -2,6 +2,8 @@
 
 AI-powered bug explainer and content writer for your WordPress admin. Bring your own API key — supports OpenAI, Anthropic, Google Gemini, and OpenRouter (100+ models, many free).
 
+**[⬇ Download latest ZIP](https://github.com/CybertronianKelvin/wp-ai-assistant/releases/latest/download/wp-ai-assistant.zip)** · **[View on portfolio →](https://www.kelvinatawura.com/#open-source)**
+
 ---
 
 ## Screenshots
